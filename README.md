@@ -1,7 +1,7 @@
 <div align="center" style="margin-bottom: 4rem">
   <samp>
     <h3 style="margin-bottom: 1em; font-size: 1.5rem">
-      &gt; Hello! I'm <b>Thiago Dias</b>
+      &gt; Hello! I'm <b><a target="_blank" href="http://thiagodias.me">Thiago Dias</a></b>
     </h3>
     <div>
       <a href="https://www.linkedin.com/in/thids">「 LinkedIn 」</a>
