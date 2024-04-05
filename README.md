@@ -10,7 +10,7 @@
         <br>committed to craft seamless digital experiences
         <br>...
         <br>And I play some 🎹 <b>synth/piano</b> in my free time,
-        <br> cuz life is not just about work 😜
+        <br> because life is not just about work 😜
       </p>
     </div>
   </samp>
