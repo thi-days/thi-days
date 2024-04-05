@@ -74,7 +74,7 @@ When I first met Node.js and its asynchronous nature, it seemed like the penny d
 > Do you know why do cloud providers make great musicians?  
 > Because they're experts at syncing things up in perfect harmony! :badjoke:
 
-Joking aside, these are the cloud services and tools I've worked with in my career (again some more, some less).  
+Jokes aside, these are the cloud services and tools I've worked with in my career (again some more, some less).  
 These days, I can hardly imagine how to develop without cloud computing services. For every tool, a cloud service quickly comes to mind. Database? RDS or DynamoDB. Serverless? Lambda. Server? EC2, ECS. API GW? AWS API gateway. And so on.
 
 ### Tools
