@@ -6,7 +6,7 @@
     <div>
       <a href="https://www.linkedin.com/in/thids">「 LinkedIn 」</a>
       <p>
-        I'm a Fullstack Developer from <b>Brazil</b>,
+        I'm a Fullstack Developer from <b>Brazil</b> (now living in <b>Portugal</b>),
         <br>committed to craft seamless digital experiences
         <br>...
         <br>And I play some 🎹 <b>synth/piano</b> in my free time,
