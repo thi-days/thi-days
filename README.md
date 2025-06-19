@@ -98,7 +98,7 @@ If I would add all the tools I know and I've worked in my life this list would b
 ![Windows](https://img.shields.io/badge/windows-0160b8?style=for-the-badge&logo=windows)
 
 I've used Windows most of my life. I know it very well.  
-I've been using Mac for 3 years (and I really love it!).  
+I've been using Mac for 6 years (and I really love it!).  
 I've been using Linux only for server and work.
 
 ### Contact
@@ -111,7 +111,7 @@ If you want to keep in touch, other than following me here in Github, click on t
 
 **Laptop:** MacBook Pro 13" (M1)  
 **Display:** Apple Studio Display  
-**Earphones:** AirPods Pro  
+**Earphones:** AirPods Pro (and Max)  
 **Mouse:** TrackPad/Magic Mouse
 
 </samp>
